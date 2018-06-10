@@ -92,3 +92,6 @@ In order for the machine to pass the test the required capabilities are:
 - Example: Neural Network - concerned with simulating human problem solving and mental task processes in computer model.
 
 ### 3. Thinking Rationally (The laws of thought Approach)
+
+- Deals with `right thinking` or `ideal thinking`.
+- Aristotle was one of the first to attempt to codify "right thinking",i.e irrefutable reasoning process.
